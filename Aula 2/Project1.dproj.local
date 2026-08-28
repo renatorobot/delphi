@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2026/08/27 15:55:16.258,=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/08/27 15:56:07.461,C:\Users\Suporte Si\Desktop\Curso Delphi\Aula 2\UnitPrincipal.dfm=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2026/08/27 15:56:07.461,C:\Users\Suporte Si\Desktop\Curso Delphi\Aula 2\UnitPrincipal.pas=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/08/27 15:56:29.745,C:\Users\Suporte Si\Desktop\Curso Delphi\Aula 2\Project1.dproj=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2026/08/27 15:55:16.000.258,=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/08/27 15:56:07.000.461,C:\Users\Suporte Si\Desktop\Curso Delphi\Aula 2\UnitPrincipal.dfm=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/08/27 15:56:07.000.461,C:\Users\Suporte Si\Desktop\Curso Delphi\Aula 2\UnitPrincipal.pas=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/08/27 15:56:29.000.745,C:\Users\Suporte Si\Desktop\Curso Delphi\Aula 2\Project1.dproj=C:\Users\Suporte Si\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
